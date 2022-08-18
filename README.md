@@ -315,7 +315,7 @@ Fallas comunes en transformadores son aberturas en el devanado primario o en el 
 
 # VIDEO:
 
-
+https://youtu.be/fJdEM3DIx74
 
 # CONCLUSIONES:
 
