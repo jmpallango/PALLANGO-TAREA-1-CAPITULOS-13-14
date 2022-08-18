@@ -131,7 +131,9 @@ L= 100^2 * 4pix10^-6*7.69x10^-4/0.035
 L= 2.75 mH
 
 12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?
+
 LT= L1+L2+LX
+
 Lx = 50 mH − 10 mH − 22 mH = 18 mH
 
 14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor? 
