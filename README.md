@@ -102,7 +102,100 @@ L = N^2 uA/ l
 N= (LI/uA)^1/2 = [(30*0.05)/1.26x10^-6 * 10x10^-5]^1/2
 N= 3450
 
+8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.t
 
+El inductor 2 tiene dos veces más inductancia que el inductor 1
+
+10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4pi 10^6 H/m). Determine la inductancia de la bobina que se formó.
+
+![image](https://user-images.githubusercontent.com/105695077/185292618-e1cd5144-cdeb-4705-a6ee-40ad5560a2a9.png)
+
+A= 0.035*0.007*pi
+A= 7.69x10^-4
+L = N^2 uA/ l
+L= 100^2 * 4pix10^-6*7.69x10^-4/0.035
+L= 2.75 mH
+
+12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?
+LT= L1+L2+LX
+Lx = 50 mH − 10 mH − 22 mH = 18 mH
+
+14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor? 
+
+![image](https://user-images.githubusercontent.com/105695077/185292710-40cb24e1-3a65-4129-8427-95e7f17c2f07.png)
+
+LT = 1/(1/L1+1/L2+1/L3+1/L4)
+LT = 155 uH
+
+16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
+
+![image](https://user-images.githubusercontent.com/105695077/185292833-108a777c-5098-49d0-b728-71d330a185d3.png)
+
+18. Determine la inductancia total de cada circuito mostrado en la figura 13-47
+
+![image](https://user-images.githubusercontent.com/105695077/185292869-2b408691-956e-4ab5-8d98-4ea1fa8def3b.png)
+
+a)
+LT = (100 mH)(50mH)/150mH + (60 mH)(40 mH)/100mH
+LT =33.33 mH + 24 mH = 57.3 mH
+b)
+ LT = (12 mH)(6mH)/18 mH = 4 mH
+c)
+LT = 4 mH +(2 mH)(4mH)/6mH = 5.33 Mh
+
+20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
+
+a) R= 56Ω, L= 50 uH
+![image](https://user-images.githubusercontent.com/105695077/185292974-630f2817-3ab6-4b95-8b19-0b83c87130cd.png)
+b) R= 3300Ω, L = 15mH
+![image](https://user-images.githubusercontent.com/105695077/185292997-c7c07cc7-d17b-4b76-ba1c-c435a107f049.png)
+c) R= 22 k Ω, L= 100Mh
+![image](https://user-images.githubusercontent.com/105695077/185293026-fd9bb9e9-c289-4ddb-ba17-e2421fdd0d62.png)
+
+22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
+a) 10 us
+b) 20 us
+c) 30us
+
+![image](https://user-images.githubusercontent.com/105695077/185293075-35074e37-6640-48d1-8ec9-5fdb4de78bb7.png)
+![image](https://user-images.githubusercontent.com/105695077/185293095-e8a85b88-ac78-403c-9693-8578fb0946f4.png)
+
+24. Repita el problema 22 para los siguientes instantes:
+
+a) 65us
+b) 75 us
+c) 85 us
+
+![image](https://user-images.githubusercontent.com/105695077/185293159-4e41b7e9-93b9-4abc-bba0-a2f153170570.png)
+
+26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadra da está creciendo?
+La polaridad es negativa porque en una parte la onda cuadrada decrece el voltaje 
+(b) ¿Cuál es el corriente justo antes de que la onda cuadrada se reduzca a cero?
+La corriente es constante antes de que la onda se reduzca a cero
+
+*28. (a) ¿Cuál es la corriente en el inductor 1?0 ms después de que se cierra el interruptor en la figura 13-50?
+(b) ¿Cuál es la corriente después de que transcurren 5t?
+
+![image](https://user-images.githubusercontent.com/105695077/185293213-74c40348-f69f-498a-8c54-00511d68060a.png)
+
+30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
+
+![image](https://user-images.githubusercontent.com/105695077/185293306-c97f01d1-0f18-4b89-a547-df7249df7052.png)
+
+32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
+
+Xl= 2pifL = 2pi(60X10^-6)(2.5X10^3)
+Xl = 0.9424
+ I= v/Xl = 10/0.9424
+I= 10.61 A
+
+34. En la figura 13-51, determine la potencia reactiva.
+
+![image](https://user-images.githubusercontent.com/105695077/185293602-bd6c90ed-80b6-4aa8-a248-1cd6c6ac4c49.png)
+
+Pr = I^2rms Xl
+Pr = 10.61 *0.9424
+Pr = 10 VAR
 
 Capitulo 14
 
