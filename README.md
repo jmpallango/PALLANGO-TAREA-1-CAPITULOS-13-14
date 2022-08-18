@@ -82,6 +82,28 @@ Capitulo 14
 
 Capitulo 13
 
+2. Convierta los siguientes valores en microhenries:
+(a) 300 mH
+300 mH × 103 μH/mH = 300,000 μH
+(b) 0.08 H
+0.08 H × 106 μH/H = 80,000 μH
+(c) 5 mH
+5 mH × 103 μH/mH = 5000 μH
+(d) 0.00045 mH
+0.00045 mH × 103 μH/mH = 0.45 μH
+
+4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?
+Vind = L(di/dt) 
+5V = 0.25 * A/s
+A/s = 20
+
+6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10 x10^5 m2 y tiene longitud de 0?05 m? La permeabilidad del núcleo es de 1.26 x 10^-6 H/m.
+L = N^2 uA/ l
+N= (LI/uA)^1/2 = [(30*0.05)/1.26x10^-6 * 10x10^-5]^1/2
+N= 3450
+
+
+
 Capitulo 14
 
 # VIDEO:
